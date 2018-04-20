@@ -1,0 +1,1 @@
+"Select buildings.building_id from buildings where building_name = '".$receiveBuildingName."'"
